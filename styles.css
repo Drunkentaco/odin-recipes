@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(100, 117, 6, 0.3);
+}
+
+.title {
+    text-align: center;
+    background-color: white;
+}
+
+.img {
+    text-align: center;
+}
+
